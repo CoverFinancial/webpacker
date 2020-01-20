@@ -70,14 +70,6 @@
     "test": "jest",
     "lint": "eslint package/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rails/webpacker.git"
-  },
-  "author": "David Heinemeier Hansson <david@basecamp.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/rails/webpacker/issues"
-  },
-  "homepage": "https://github.com/rails/webpacker"
+  "author": "James Barzegar <james.barzegar@cover.com>",
+  "license": "MIT"
 }
