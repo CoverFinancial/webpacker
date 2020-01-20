@@ -7,6 +7,9 @@
     "package",
     "lib/install/config/webpacker.yml"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "engines": {
     "node": ">=8.16.0",
     "yarn": ">=1.0.0"
